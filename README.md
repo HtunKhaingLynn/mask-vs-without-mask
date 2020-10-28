@@ -7,4 +7,4 @@ How to download kaggle dataset to google colab? https://www.kaggle.com/general/7
 
 
 
-If you are run on your local jupyter notebook, start from the import cell
+If you run on your local jupyter notebook, start from the import cell
